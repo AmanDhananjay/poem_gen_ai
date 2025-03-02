@@ -1,0 +1,9 @@
+transformers
+datasets
+torch
+tensorflow
+pandas
+numpy
+tf-keras
+accelerate
+transformers[torch]
